@@ -12,7 +12,7 @@ It Works from Android 7 to Android 15
 - Pattern+pin+passcode stealer
 - Auto Unlock screen with recorded pattern
 - Hidden control(make screen blank when using victims phones)
-- Sms contact stealer
+- Sms contact stealer 
 - Hide notification + make volume silent
 - File manager
 - Camera access
